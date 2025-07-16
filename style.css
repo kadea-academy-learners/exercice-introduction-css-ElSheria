@@ -1,3 +1,107 @@
+* {
+    text-align: center;
+    background-color: white;
+    font-family: Arial, sans-serif;
+}
 
+body {
+    background-color: gray;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.entete {
+    text-align: center;
+    /*padding: 30px 20px 10px;*/
+    background-color: gray;
+}
+h1 ,
+p {
+    background-color: gray;
+}
+
+main {
+    margin: 20px auto;
+    margin-top: 0;
+    padding: 10px;
+    background-color: gray;
+    border-radius: 0;
+}
+
+figure {
+    text-align: center;
+    margin: 0;
+    background-color: white;
+}
+
+figure img {
+    max-width: 900px;
+}
+
+figcaption {
+    font-size: 0.9em;
+    padding-bottom: 10px;
+}
+
+section {
+    background-color: gray;
+}
+
+h3 {
+    text-align: center;
+    font-size: 1.3em;
+    margin:50px;
+    background-color: gray;
+}
+
+.center {
+    max-width: 500px;
+    background-color: gray;
+    margin: auto;
+}
+
+ul li {
+    margin-bottom: 15px;
+    background-color: gray;
+    text-align: left;
+}
+
+strong {
+    background-color: gray;
+}
+
+.slog {
+    text-align: left;
+    color: black;
+    max-width: 500px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.citation {
+    margin-right: 14rem;
+    background-color: gray;
+    font-style: normal;
+}
+
+em {
+    background-color: gray;
+    font-style: normal;
+}
+
+footer {
+    background-color: gray;
+}
+
+footer a {
+    color: blue;
+    text-decoration: none;
+    background-color: grey;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
 
 
