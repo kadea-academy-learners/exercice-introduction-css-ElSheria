@@ -14,7 +14,6 @@ body {
     text-align: center;
     background-color: gray;
 }
-
 h1 ,
 p {
     background-color: gray;
@@ -103,4 +102,5 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
+
 
