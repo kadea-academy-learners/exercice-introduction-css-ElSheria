@@ -59,13 +59,13 @@ h3 {
     margin: auto;
 }
 
-ul li {
+.center li {
     margin-bottom: 15px;
     background-color: gray;
     text-align: left;
 }
 
-strong {
+.center strong {
     background-color: gray;
 }
 
