@@ -11,12 +11,10 @@ body {
     background-color: gainsboro;
     padding: 5px;
     border-radius: 5px 5px 0 0;
-    margin: 0;
 }
 
 /* Stylisé la partie important dont le main */
 main {
-    margin: 0;
     padding: 10px;
     background-color: gainsboro;
 }
