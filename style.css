@@ -4,33 +4,34 @@
     font-family: Arial, sans-serif;
 }
 
+/* Stylisé la partie Corps de la page*/
 body {
     background-color: gray;
     padding: 10px;
     border-radius: 5px;
 }
 
+/* Stylisé la partie l'entete de la page dont le header */
 .entete {
-    text-align: center;
-    background-color: gray;
+    background-color: gray ;
 }
+
 h1 ,
 p {
     background-color: gray;
 }
 
+/* Stylisé la partie important dont le main */
 main {
     margin: 20px auto;
     margin-top: 0;
     padding: 10px;
     background-color: gray;
-    border-radius: 0;
 }
 
+/* Stylisé la partie de l'image */
 figure {
-    text-align: center;
     margin: 0;
-    background-color: white;
 }
 
 figure img {
@@ -42,12 +43,12 @@ figcaption {
     padding: 10px;
 }
 
+/* Stylisé la partie section */
 section {
     background-color: gray;
 }
 
 h3 {
-    text-align: center;
     font-size: 1.3em;
     margin: 50px;
     background-color: gray;
@@ -60,15 +61,16 @@ h3 {
 }
 
 .center li {
-    margin-bottom: 15px;
     background-color: gray;
     text-align: left;
+    margin-bottom: 15px;
 }
 
 .center strong {
     background-color: gray;
 }
 
+/* Stylisé la partie du paragraphe "p" et la citation "cite" */
 .slog {
     text-align: left;
     color: black;
@@ -76,6 +78,7 @@ h3 {
     margin: auto;
     margin-top: 30px;
     margin-bottom: 10px;
+    font-style: italic;
 }
 
 .citation {
@@ -85,10 +88,10 @@ h3 {
 
 em {
     background-color: gray;
-    font-style: normal;
     margin-left: 20px;
 }
 
+/* Stylisé la partie du pied de la page dont le footer */
 footer {
     background-color: gray;
 }
@@ -96,11 +99,9 @@ footer {
 footer a {
     color: blue;
     text-decoration: none;
-    background-color: grey;
+    background-color: gray;
 }
 
 footer a:hover {
     text-decoration: underline;
 }
-
-
